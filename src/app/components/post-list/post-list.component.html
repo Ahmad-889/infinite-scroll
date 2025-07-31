@@ -1,0 +1,15 @@
+<div class="posts-wrapper">
+  @for (post of posts; track $index) {
+  <app-post [post]="post"></app-post>
+  }
+
+  @if(loading){
+  <div class="loading">Loading...</div>
+  }
+  @if(errorMessage){
+  <div class="error-message">
+    {{ errorMessage }}
+  </div>
+  }
+
+</div>
