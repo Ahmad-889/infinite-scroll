@@ -61,7 +61,8 @@ src/
 ```
 ## 🔗 Preview
 
-![Live Preview](https://ahmad-889.github.io/infinite-scroll/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://ahmad-889.github.io/infinite-scroll/)
+
 
 ---
 
