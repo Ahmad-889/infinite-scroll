@@ -45,7 +45,7 @@ I developed an *Infinite Scroll Post List* app with the following features:
 ```plaintext
 src/
 ├── app/
-│   └── posts/
+│   └── components/
 │       ├── post-list/
 │       │   ├── post-list.component.ts       # Fetch logic, scroll listener
 │       │   ├── post-list.component.html     # Loop through posts + loading/error
